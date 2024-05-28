@@ -4,6 +4,6 @@ A library implementing the necessary linear algebra math for 2D and 3D computati
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/Shinmera/3d-math.git |
-| commit  | a517cb4                                     |
+| commit  | f91d6f9                                     |
 | systems | 3d-math                                     |
 |---------+---------------------------------------------|

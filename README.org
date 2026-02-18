@@ -3,7 +3,7 @@
 A library implementing the necessary linear algebra math for 2D and 3D computations
 
 |---------+---------------------------------------------|
-| source  | git:https://github.com/Shinmera/3d-math.git |
-| commit  | fe26c05                                     |
+| source  | git:https://codeberg.org/shinmera/3d-math.git |
+| commit  | 0000000                                     |
 | systems | 3d-math                                     |
 |---------+---------------------------------------------|
